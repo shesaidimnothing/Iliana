@@ -166,6 +166,14 @@ export default function Home() {
                   >
                     💝💝
                   </motion.h2>
+                  <motion.img
+                    src="https://i.pinimg.com/originals/5a/cd/71/5acd718308f3d8212a9279d094ae8ea2.gif"
+                    alt="Celebration"
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ delay: 0.3 }}
+                    className="w-full rounded-lg mb-4 shadow-lg"
+                  />
                   <motion.p
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
