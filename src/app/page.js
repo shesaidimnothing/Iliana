@@ -118,7 +118,7 @@ export default function Home() {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-lg md:text-xl text-gray-700 mb-6 md:mb-8 leading-relaxed"
         >
-          T'acceptes de me date ???
+          T&apos;acceptes de me date ???
         </motion.p>
         
         <AnimatePresence>
