@@ -109,7 +109,7 @@ export default function Home() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-3xl md:text-4xl font-bold text-red-500 mb-4 md:mb-6"
         >
-          Iliana..
+          Julia..
         </motion.h1>
 
         <motion.p
